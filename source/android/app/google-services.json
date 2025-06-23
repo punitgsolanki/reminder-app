@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899613653449",
+    "project_id": "my-reminder-app-punit",
+    "storage_bucket": "my-reminder-app-punit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899613653449:android:9ce604761a114390edd018",
+        "android_client_info": {
+          "package_name": "com.reminder.reminder_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGMOVgieKtY-sEMpZvA2wXSdVThFqgIvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
